@@ -1,4 +1,7 @@
 var express=require("express");
+var dotenv=require('dotenv')
+dotenv.config()
+
 require("./db");
 var student = require("./model")
 var cors=require("cors");
