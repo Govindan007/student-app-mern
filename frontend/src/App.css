@@ -1,0 +1,28 @@
+#root {
+  /* max-width: 1280px; */
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0rem;
+  text-align: center;
+}
+
+
+#hometable{
+  -webkit-text-fill-color: white;
+  border: 5px solid white;
+  border-radius: 50%;
+  max-width: 1280px;
+  margin-left: 7%;
+  margin-right: 7%;
+  margin-top: 2%;
+}
+#reg{
+  -webkit-text-fill-color: white;
+  margin-left: 35%;
+  margin-right: 35%;
+  border: 5px solid lavender;
+  margin-top: 4%;
+  padding-bottom: 4%;
+  padding-top: 4%;
+  border-radius: 50%;
+}
